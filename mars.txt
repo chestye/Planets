@@ -1,1 +1,4 @@
 Eh help help help help help- \hellolheeelool
+ Our lessons are developed collaboratively on GitHub. You can check the status of each lesson on our dashboard, or view the nightly build. You may also enjoy Data Carpentry's lessons, which focus on data organization, cleanup, analysis, and visualization.
+
+All of our lessons are freely available under the Creative Commons - Attribution License. You may re-use and re-mix the material in any way you wish, without asking permission, provided you cite us as the original source (e.g., provide a link back to this website). If you have questions about contributing to particular lessons, please contact its maintainers. 
